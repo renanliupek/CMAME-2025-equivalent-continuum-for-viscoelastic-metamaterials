@@ -1,6 +1,6 @@
 ### Renan Liupekevicius Carnielli [r.liupekevicius.carnielli@tue.nl](mailto::r.liupekevicius.carnielli@tue.nl)
 
-Data Availability of the article "Equivalent continuum for viscoelastic metamaterials"
+Data Availability of the article "Equivalent continuum for viscoelastic metamaterials" in https://data.4tu.nl/datasets/e1e12991-b957-4ca6-bd21-c59fe9d165b5/1
 
 
 -*COMSOL DISPERSION AND LOCAL RESONANT MODES* is the folder with the COMSOL models to compute the local resonance modes (Figure 3); and the blue crosses DNS points of Figures 4, 5 and 6.
